@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Aditya Repekar </p>
+logo: /assets/img/logo.jpg
+
+description:
+  <p align="center">
+  <a href="docs/Aditya_Kiran_Repekar.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/repekaraditya">LinkedIn</a> |
+  <a href="https://github.com/adityarepekar">GitHub</a>
+  
+  <br>   
+  I'm working on Machine learning & NLP related problems.
+  Also handing the Machine Learning Operations for a HealthTech company.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
